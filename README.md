@@ -57,13 +57,6 @@ a user may put a photo of an employee up at a camera and gain
 access to a building they do not have access to.
 
 # Setup
-# AppSync Image Rekognition
-
-React app for AI image facial recognition processing.
-
-![](https://i.imgur.com/pL4gveo.jpg)
-
-## Getting started
 
 0. Clone the project & change into the new directory
 
