@@ -1,13 +1,7 @@
 # RekognizeMe 
 We are using [Amazon Rekognition](https://aws.amazon.com/rekognition/) software to authenticate attendees to events and/or take roll.
 
-<img
-src=“images/Screen Shot 2020-07-22 at 2.55.53 PM.png”
-raw=true
-alt=“Subject Pronouns”
-/>
-
-![](https://imgur.com/hAsWxhK)
+![alt text](https://i.imgur.com/hAsWxhK.png)
 
 # Features
 A variety of useful features may be put in this project
