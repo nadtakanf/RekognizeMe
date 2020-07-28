@@ -2,7 +2,7 @@
 We are using [Amazon Rekognition](https://aws.amazon.com/rekognition/) software to authenticate attendees to events and/or take roll.
 
 ![alt text](https://i.imgur.com/hAsWxhK.png)
-![alt text](https://imgur.com/MLGyJzq)
+![alt text](https://imgur.com/MLGyJzq.png)
 
 
 # Features
